@@ -1,10 +1,19 @@
+
 # ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
 *Grab an updated copy of the file(s) today!*<br>
 
 ### **<ins>[AdAway](https://adaway.org/)</ins> . <ins>[Blokada](https://blokada.org/)</ins> . <ins>[Pi-hole](https://pi-hole.net/)</ins>**
+[o0.pages.dev/Lite/hosts.txt](https://o0.pages.dev/Lite/hosts.txt)  <br>
+[o0.pages.dev/Pro/hosts.txt](https://o0.pages.dev/Pro/hosts.txt)  <br>
+[o0.pages.dev/mini/hosts.txt](https://o0.pages.dev/mini/hosts.txt)  <br>
+<ins>.</ins> <br>
 [hosts.netlify.app/Lite/hosts.txt](https://hosts.netlify.app/Lite/hosts.txt)  <br>
 [hosts.netlify.app/Pro/hosts.txt](https://hosts.netlify.app/Pro/hosts.txt)  <br>
 [hosts.netlify.app/mini/hosts.txt](https://hosts.netlify.app/mini/hosts.txt)  <br>
+<ins>.</ins> <br>
+[adlist.vercel.app/Lite/hosts.txt](https://adlist.vercel.app/Lite/hosts.txt)  <br>
+[adlist.vercel.app/Pro/hosts.txt](https://adlist.vercel.app/Pro/hosts.txt)  <br>
+[adlist.vercel.app/mini/hosts.txt](https://adlist.vercel.app/mini/hosts.txt)  <br>
 <ins>.</ins> <br>
 [badmojr.github.io/1Hosts/Lite/hosts.txt](https://badmojr.github.io/1Hosts/Lite/hosts.txt)  <br>
 [badmojr.github.io/1Hosts/Pro/hosts.txt](https://badmojr.github.io/1Hosts/Pro/hosts.txt)  <br>
@@ -16,9 +25,17 @@
 <br>
 
 ### **<ins>[personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/)</ins>**
+[o0.pages.dev/Lite/domains.txt](https://o0.pages.dev/Lite/domains.txt)  <br>
+[o0.pages.dev/Pro/domains.txt](https://o0.pages.dev/Pro/domains.txt)  <br>
+[o0.pages.dev/mini/domains.txt](https://o0.pages.dev/mini/domains.txt)  <br>
+<ins>.</ins> <br>
 [hosts.netlify.app/Lite/domains.txt](https://hosts.netlify.app/Lite/domains.txt)  <br>
 [hosts.netlify.app/Pro/domains.txt](https://hosts.netlify.app/Pro/domains.txt)  <br>
 [hosts.netlify.app/mini/domains.txt](https://hosts.netlify.app/mini/domains.txt)  <br>
+<ins>.</ins> <br>
+[adlist.vercel.app/Lite/domains.txt](https://adlist.vercel.app/Lite/domains.txt)  <br>
+[adlist.vercel.app/Pro/domains.txt](https://adlist.vercel.app/Pro/domains.txt)  <br>
+[adlist.vercel.app/mini/domains.txt](https://adlist.vercel.app/mini/domains.txt)  <br>
 <ins>.</ins> <br>
 [badmojr.github.io/1Hosts/Lite/domains.txt](https://badmojr.github.io/1Hosts/Lite/domains.txt)  <br>
 [badmojr.github.io/1Hosts/Pro/domains.txt](https://badmojr.github.io/1Hosts/Pro/domains.txt)  <br>
@@ -30,9 +47,17 @@
 <br>
 
 ### **<ins>[uBlock Origin](https://github.com/gorhill/uBlock#installation)</ins> . <ins>[AdGuardHome](https://adguard.com/en/adguard-home/overview.html)</ins>**
+[o0.pages.dev/Lite/adblock.txt](https://o0.pages.dev/Lite/adblock.txt)  <br>
+[o0.pages.dev/Pro/adblock.txt](https://o0.pages.dev/Pro/adblock.txt)  <br>
+[o0.pages.dev/mini/adblock.txt](https://o0.pages.dev/mini/adblock.txt)  <br>
+<ins>.</ins> <br>
 [hosts.netlify.app/Lite/adblock.txt](https://hosts.netlify.app/Lite/adblock.txt)  <br>
 [hosts.netlify.app/Pro/adblock.txt](https://hosts.netlify.app/Pro/adblock.txt)  <br>
 [hosts.netlify.app/mini/adblock.txt](https://hosts.netlify.app/mini/adblock.txt)  <br>
+<ins>.</ins> <br>
+[adlist.vercel.app/Lite/adblock.txt](https://adlist.vercel.app/Lite/adblock.txt)  <br>
+[adlist.vercel.app/Pro/adblock.txt](https://adlist.vercel.app/Pro/adblock.txt)  <br>
+[adlist.vercel.app/mini/adblock.txt](https://adlist.vercel.app/mini/adblock.txt)  <br>
 <ins>.</ins> <br>
 [badmojr.github.io/1Hosts/Lite/adblock.txt](https://badmojr.github.io/1Hosts/Lite/adblock.txt)  <br>
 [badmojr.github.io/1Hosts/Pro/adblock.txt](https://badmojr.github.io/1Hosts/Pro/adblock.txt)  <br>
@@ -44,9 +69,17 @@
 <br>
 
 ### **<ins>[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)</ins> . <ins>[dnscrypt-proxy](https://www.dnscrypt.org/)</ins>**
+[o0.pages.dev/Lite/wildcards.txt](https://o0.pages.dev/Lite/wildcards.txt)  <br>
+[o0.pages.dev/Pro/wildcards.txt](https://o0.pages.dev/Pro/wildcards.txt)  <br>
+[o0.pages.dev/mini/wildcards.txt](https://o0.pages.dev/mini/wildcards.txt)  <br>
+<ins>.</ins> <br>
 [hosts.netlify.app/Lite/wildcards.txt](https://hosts.netlify.app/Lite/wildcards.txt)  <br>
 [hosts.netlify.app/Pro/wildcards.txt](https://hosts.netlify.app/Pro/wildcards.txt)  <br>
 [hosts.netlify.app/mini/wildcards.txt](https://hosts.netlify.app/mini/wildcards.txt)  <br>
+<ins>.</ins> <br>
+[adlist.vercel.app/Lite/wildcards.txt](https://adlist.vercel.app/Lite/wildcards.txt)  <br>
+[adlist.vercel.app/Pro/wildcards.txt](https://adlist.vercel.app/Pro/wildcards.txt)  <br>
+[adlist.vercel.app/mini/wildcards.txt](https://adlist.vercel.app/mini/wildcards.txt)  <br>
 <ins>.</ins> <br>
 [badmojr.github.io/1Hosts/Lite/wildcards.txt](https://badmojr.github.io/1Hosts/Lite/wildcards.txt)  <br>
 [badmojr.github.io/1Hosts/Pro/wildcards.txt](https://badmojr.github.io/1Hosts/Pro/wildcards.txt)  <br>
@@ -58,9 +91,17 @@
 <br>
 
 ### **<ins>[dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)</ins>**
+[o0.pages.dev/Lite/dnsmasq.conf](https://o0.pages.dev/Lite/dnsmasq.conf)  <br>
+[o0.pages.dev/Pro/dnsmasq.conf](https://o0.pages.dev/Pro/dnsmasq.conf)  <br>
+[o0.pages.dev/mini/dnsmasq.conf](https://o0.pages.dev/mini/dnsmasq.conf)  <br>
+<ins>.</ins> <br>
 [hosts.netlify.app/Lite/dnsmasq.conf](https://hosts.netlify.app/Lite/dnsmasq.conf)  <br>
 [hosts.netlify.app/Pro/dnsmasq.conf](https://hosts.netlify.app/Pro/dnsmasq.conf)  <br>
 [hosts.netlify.app/mini/dnsmasq.conf](https://hosts.netlify.app/mini/dnsmasq.conf)  <br>
+<ins>.</ins> <br>
+[adlist.vercel.app/Lite/dnsmasq.conf](https://adlist.vercel.app/Lite/dnsmasq.conf)  <br>
+[adlist.vercel.app/Pro/dnsmasq.conf](https://adlist.vercel.app/Pro/dnsmasq.conf)  <br>
+[adlist.vercel.app/mini/dnsmasq.conf](https://adlist.vercel.app/mini/dnsmasq.conf)  <br>
 <ins>.</ins> <br>
 [badmojr.github.io/1Hosts/Lite/dnsmasq.conf](https://badmojr.github.io/1Hosts/Lite/dnsmasq.conf)  <br>
 [badmojr.github.io/1Hosts/Pro/dnsmasq.conf](https://badmojr.github.io/1Hosts/Pro/dnsmasq.conf)  <br>
