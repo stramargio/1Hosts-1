@@ -127,6 +127,8 @@ Still wanna block more? Use the [addon(s)](https://github.com/badmojr/1Hosts/tre
 <br>
 <p align="center">
   <strong>users. clients. projects. services. fans. mentions.</strong> <br>
+  <a href="./statics/assets.txt">Dear list maintainers, thank you! Couldn't have done it without you.</a> <br>
+   <br>
   <a href="https://forum.xda-developers.com/t/one-to-block-them-all-1hosts.3713360">forum.xda-developers.com/t/one-to-block-them-all-1hosts.3713360</a> <br>
   <a href="https://malwaretips.com/search/230934/?q=1Hosts&amp;o=date">malwaretips.com/search/230934/?q=1Hosts&amp;o=date</a> <br>
   <a href="https://github.com/pothirak/adlist">github.com/pothirak/adlist</a> <br>
