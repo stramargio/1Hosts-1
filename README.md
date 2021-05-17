@@ -120,7 +120,7 @@ Start with a ***Lite*** list.<br>
 - If it blocks too much, downgrade to ***mini***.<br>
 - If it doesn't block enough, upgrade to ***Pro***.<br>
 
-Still wanna block more? Use the [addon(s)](https://github.com/badmojr/1Hosts/tree/master/Pro/xtra) + **Pro** together!<br>
+Still wanna block more? Use the [addon(s)](./Pro/xtra) + **Pro** together!<br>
 <br>
 
 
