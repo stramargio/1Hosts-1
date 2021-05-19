@@ -2,7 +2,7 @@
 # ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
 *Grab an updated copy of the file(s) today!*<br>
 
-### **<ins>[AdAway](https://adaway.org/)</ins> . <ins>[Blokada](https://blokada.org/)</ins> . <ins>[Pi-hole](https://pi-hole.net/)</ins>**
+### **<ins>[AdAway](https://adaway.org/)</ins> . <ins>[Pi-hole](https://pi-hole.net/)</ins>**
 [o0.pages.dev/mini/hosts.txt](https://o0.pages.dev/mini/hosts.txt)  <br>
 [o0.pages.dev/Lite/hosts.txt](https://o0.pages.dev/Lite/hosts.txt)  <br>
 [o0.pages.dev/Pro/hosts.txt](https://o0.pages.dev/Pro/hosts.txt)  <br>
