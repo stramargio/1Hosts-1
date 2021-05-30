@@ -141,15 +141,18 @@
 
 **Quickstart Guide**<br>
 ----------------
+**mini** - Level 1<br>
+**Lite** - Level 2;  set & forget, recommended.<br>
+**Pro**   - Level 3;  prioritizes safety and privacy e.g blocks `graph.facebook.com`.<br>
+**Xtra** - Level 4<br>
+
 Start with a ***Lite*** list.<br>
-- If it blocks too much, downgrade to ***mini***.<br>
-- If it doesn't block enough, upgrade to ***Pro***.<br>
+- If **Lite** blocks too much, downgrade to ***mini***.<br>
+- If **Lite** doesn't block enough, upgrade to ***Pro***.<br>
 
 Still wanna block more?<br>
-Use **Xtra**: highly advanced and extremely Xperimental list, made for daredevils.<br>
+Use **Xtra**: a highly advanced and extremely edgy list, made for daredevils.<br>
 <br>
-
-
 <br>
 <p align="center">
   <strong>users. clients. projects. services. fans. mentions.</strong> <br>
