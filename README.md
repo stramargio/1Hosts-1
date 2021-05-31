@@ -147,7 +147,7 @@
 **Xtra** - Level 4<br>
 
 Start with a ***Lite*** list.<br>
-- If **Lite** blocks too much, downgrade to ***mini***.<br>
+- If **Lite** is too harsh for your taste, downgrade to ***mini***.<br>
 - If **Lite** doesn't block enough, upgrade to ***Pro***.<br>
 
 Still wanna block more?<br>
