@@ -163,4 +163,4 @@ Use **Xtra**: a highly advanced and extremely edgy list, made for daredevils.<br
   <a href="https://github.com/pothirak/adlist">github.com/pothirak/adlist</a> <br>
   <a href="https://github.com/minoplhy/filters-build">github.com/minoplhy/filters-build</a>
 </p>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=badmojr.bhdCNgza" alt="visits"></p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=badmojr.IORTs29" alt="visits"></p>
