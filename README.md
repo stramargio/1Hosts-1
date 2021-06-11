@@ -160,6 +160,7 @@ Use **Xtra**: a highly advanced and extremely edgy list, made for daredevils.<br
    <br>
   <a href="https://forum.xda-developers.com/t/one-to-block-them-all-1hosts.3713360">forum.xda-developers.com/t/one-to-block-them-all-1hosts.3713360</a> <br>
   <a href="https://malwaretips.com/search/230934/?q=1Hosts&amp;o=date">malwaretips.com/search/230934/?q=1Hosts&amp;o=date</a> <br>
+  <a href="https://community.blokada.org/t/introducing-1hosts-blocklist/">community.blokada.org/t/introducing-1hosts-blocklist</a> <br>
   <a href="https://github.com/pothirak/adlist">github.com/pothirak/adlist</a> <br>
   <a href="https://github.com/minoplhy/filters-build">github.com/minoplhy/filters-build</a>
 </p>
