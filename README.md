@@ -146,7 +146,7 @@
 **Pro**   - Level 3;  prioritizes safety and privacy e.g blocks `graph.facebook.com`.<br>
 **Xtra** - Level 4<br>
 
-Start with a ***Lite*** list.<br>
+Start with a ***Lite*** list first.<br>
 - If **Lite** is too harsh for your taste, downgrade to ***mini***.<br>
 - If **Lite** doesn't block enough, upgrade to ***Pro***.<br>
 
