@@ -141,10 +141,10 @@
 
 **Quickstart Guide**<br>
 ----------------
-**mini** - Level 1<br>
-**Lite** - Level 2;  set & forget, recommended.<br>
-**Pro**   - Level 3;  prioritizes safety and privacy e.g blocks `graph.facebook.com`.<br>
-**Xtra** - Level 4<br>
+**mini** - Level 1: unblocks a number of ads & trackers for in-app rewards, and anti-AdBlock.<br>
+**Lite** - Level 2:  set & forget, balanced, recommended.<br>
+**Pro**   - Level 3:  prioritizes safety and privacy e.g blocks `graph.facebook.com`.<br>
+**Xtra** - Level 4: extremly Xtreme in nature, for experienced users only.<br>
 
 Start with a ***Lite*** list first.<br>
 - If **Lite** is too harsh for your taste, downgrade to ***mini***.<br>
