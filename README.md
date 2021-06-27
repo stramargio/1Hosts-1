@@ -136,7 +136,88 @@
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/dnsmasq.conf](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/dnsmasq.conf)  <br>
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/dnsmasq.conf](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/dnsmasq.conf)  <br>
 <br>
+
+### **<ins>[Bind9](https://www.isc.org/bind/)</ins>  . <ins>[PowerDNS](https://www.powerdns.com/recursor.html)</ins> . <ins>[Knot](https://www.knot-dns.cz/)</ins>**
+[o0.pages.dev/mini/rpz.txt](https://o0.pages.dev/mini/rpz.txt)  <br>
+[o0.pages.dev/Lite/rpz.txt](https://o0.pages.dev/Lite/rpz.txt)  <br>
+[o0.pages.dev/Pro/rpz.txt](https://o0.pages.dev/Pro/rpz.txt)  <br>
+[o0.pages.dev/Xtra/rpz.txt](https://o0.pages.dev/Xtra/rpz.txt)  <br>
+<ins>.</ins> <br>
+[hosts.netlify.app/mini/rpz.txt](https://hosts.netlify.app/mini/rpz.txt)  <br>
+[hosts.netlify.app/Lite/rpz.txt](https://hosts.netlify.app/Lite/rpz.txt)  <br>
+[hosts.netlify.app/Pro/rpz.txt](https://hosts.netlify.app/Pro/rpz.txt)  <br>
+[hosts.netlify.app/Xtra/rpz.txt](https://hosts.netlify.app/Xtra/rpz.txt)  <br>
+<ins>.</ins> <br>
+[adlist.vercel.app/mini/rpz.txt](https://adlist.vercel.app/mini/rpz.txt)  <br>
+[adlist.vercel.app/Lite/rpz.txt](https://adlist.vercel.app/Lite/rpz.txt)  <br>
+[adlist.vercel.app/Pro/rpz.txt](https://adlist.vercel.app/Pro/rpz.txt)  <br>
+[adlist.vercel.app/Xtra/rpz.txt](https://adlist.vercel.app/Xtra/rpz.txt)  <br>
+<ins>.</ins> <br>
+[badmojr.github.io/1Hosts/mini/rpz.txt](https://badmojr.github.io/1Hosts/mini/rpz.txt)  <br>
+[badmojr.github.io/1Hosts/Lite/rpz.txt](https://badmojr.github.io/1Hosts/Lite/rpz.txt)  <br>
+[badmojr.github.io/1Hosts/Pro/rpz.txt](https://badmojr.github.io/1Hosts/Pro/rpz.txt)  <br>
+[badmojr.github.io/1Hosts/Xtra/rpz.txt](https://badmojr.github.io/1Hosts/Xtra/rpz.txt)  <br>
+<ins>.</ins> <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/rpz.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/rpz.txt)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/rpz.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/rpz.txt)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/rpz.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/rpz.txt)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/rpz.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/rpz.txt)  <br>
 <br>
+
+### **<ins>[Unbound](https://nlnetlabs.nl/projects/unbound/about/)</ins>**
+[o0.pages.dev/mini/unbound.conf](https://o0.pages.dev/mini/unbound.conf)  <br>
+[o0.pages.dev/Lite/unbound.conf](https://o0.pages.dev/Lite/unbound.conf)  <br>
+[o0.pages.dev/Pro/unbound.conf](https://o0.pages.dev/Pro/unbound.conf)  <br>
+[o0.pages.dev/Xtra/unbound.conf](https://o0.pages.dev/Xtra/unbound.conf)  <br>
+<ins>.</ins> <br>
+[hosts.netlify.app/mini/unbound.conf](https://hosts.netlify.app/mini/unbound.conf)  <br>
+[hosts.netlify.app/Lite/unbound.conf](https://hosts.netlify.app/Lite/unbound.conf)  <br>
+[hosts.netlify.app/Pro/unbound.conf](https://hosts.netlify.app/Pro/unbound.conf)  <br>
+[hosts.netlify.app/Xtra/unbound.conf](https://hosts.netlify.app/Xtra/unbound.conf)  <br>
+<ins>.</ins> <br>
+[adlist.vercel.app/mini/unbound.conf](https://adlist.vercel.app/mini/unbound.conf)  <br>
+[adlist.vercel.app/Lite/unbound.conf](https://adlist.vercel.app/Lite/unbound.conf)  <br>
+[adlist.vercel.app/Pro/unbound.conf](https://adlist.vercel.app/Pro/unbound.conf)  <br>
+[adlist.vercel.app/Xtra/unbound.conf](https://adlist.vercel.app/Xtra/unbound.conf)  <br>
+<ins>.</ins> <br>
+[badmojr.github.io/1Hosts/mini/unbound.conf](https://badmojr.github.io/1Hosts/mini/unbound.conf)  <br>
+[badmojr.github.io/1Hosts/Lite/unbound.conf](https://badmojr.github.io/1Hosts/Lite/unbound.conf)  <br>
+[badmojr.github.io/1Hosts/Pro/unbound.conf](https://badmojr.github.io/1Hosts/Pro/unbound.conf)  <br>
+[badmojr.github.io/1Hosts/Xtra/unbound.conf](https://badmojr.github.io/1Hosts/Xtra/unbound.conf)  <br>
+<ins>.</ins> <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/unbound.conf](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/unbound.conf)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/unbound.conf](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/unbound.conf)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/unbound.conf](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/unbound.conf)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/unbound.conf](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/unbound.conf)  <br>
+<br>
+
+### **<ins>[Windows](https://en.wikipedia.org/wiki/Hosts_(file))</ins>**
+[o0.pages.dev/mini/hosts_windows.txt](https://o0.pages.dev/mini/hosts_windows.txt)  <br>
+[o0.pages.dev/Lite/hosts_windows.txt](https://o0.pages.dev/Lite/hosts_windows.txt)  <br>
+[o0.pages.dev/Pro/hosts_windows.txt](https://o0.pages.dev/Pro/hosts_windows.txt)  <br>
+[o0.pages.dev/Xtra/hosts_windows.txt](https://o0.pages.dev/Xtra/hosts_windows.txt)  <br>
+<ins>.</ins> <br>
+[hosts.netlify.app/mini/hosts_windows.txt](https://hosts.netlify.app/mini/hosts_windows.txt)  <br>
+[hosts.netlify.app/Lite/hosts_windows.txt](https://hosts.netlify.app/Lite/hosts_windows.txt)  <br>
+[hosts.netlify.app/Pro/hosts_windows.txt](https://hosts.netlify.app/Pro/hosts_windows.txt)  <br>
+[hosts.netlify.app/Xtra/hosts_windows.txt](https://hosts.netlify.app/Xtra/hosts_windows.txt)  <br>
+<ins>.</ins> <br>
+[adlist.vercel.app/mini/hosts_windows.txt](https://adlist.vercel.app/mini/hosts_windows.txt)  <br>
+[adlist.vercel.app/Lite/hosts_windows.txt](https://adlist.vercel.app/Lite/hosts_windows.txt)  <br>
+[adlist.vercel.app/Pro/hosts_windows.txt](https://adlist.vercel.app/Pro/hosts_windows.txt)  <br>
+[adlist.vercel.app/Xtra/hosts_windows.txt](https://adlist.vercel.app/Xtra/hosts_windows.txt)  <br>
+<ins>.</ins> <br>
+[badmojr.github.io/1Hosts/mini/hosts_windows.txt](https://badmojr.github.io/1Hosts/mini/hosts_windows.txt)  <br>
+[badmojr.github.io/1Hosts/Lite/hosts_windows.txt](https://badmojr.github.io/1Hosts/Lite/hosts_windows.txt)  <br>
+[badmojr.github.io/1Hosts/Pro/hosts_windows.txt](https://badmojr.github.io/1Hosts/Pro/hosts_windows.txt)  <br>
+[badmojr.github.io/1Hosts/Xtra/hosts_windows.txt](https://badmojr.github.io/1Hosts/Xtra/hosts_windows.txt)  <br>
+<ins>.</ins> <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/hosts_windows.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/hosts_windows.txt)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/hosts_windows.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/hosts_windows.txt)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/hosts_windows.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/hosts_windows.txt)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/hosts_windows.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/hosts_windows.txt)  <br>
+<br>
+<br><br>
 
 
 **Quickstart Guide**<br>
