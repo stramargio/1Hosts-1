@@ -250,7 +250,7 @@
 **Quickstart Guide**<br>
 ----------------
 **mini** - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.<br>
-**Lite** - Level 2:  set & forget, prioritizes user experience (UX) over adblocking, balanced, recommended.<br>
+**Lite** - Level 2:  set & forget, favours user experience (UX) over adblocking, balanced, recommended.<br>
 **Pro**   - Level 3:  prioritizes safety & privacy (adblocking) over UX e.g blocks `graph.facebook.com`.<br>
 **Xtra** - Level 4: extremly Xtreme in nature.<br>
 
