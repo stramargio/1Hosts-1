@@ -2,7 +2,7 @@
 # ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
 *Grab an updated copy of the file(s) today!*<br>
 
-### **<ins>[AdAway](https://adaway.org/)</ins> . <ins>[Pi-hole](https://pi-hole.net/)</ins>**
+### **<ins>[AdAway](https://adaway.org/)</ins>**
 [o0.pages.dev/mini/hosts.txt](https://o0.pages.dev/mini/hosts.txt)  <br>
 [o0.pages.dev/Lite/hosts.txt](https://o0.pages.dev/Lite/hosts.txt)  <br>
 [o0.pages.dev/Pro/hosts.txt](https://o0.pages.dev/Pro/hosts.txt)  <br>
@@ -29,7 +29,7 @@
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/hosts.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/hosts.txt)  <br>
 <br>
 
-### **<ins>[personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/)</ins>**
+### **<ins>[Pi-hole](https://pi-hole.net/)</ins>**
 [o0.pages.dev/mini/domains.txt](https://o0.pages.dev/mini/domains.txt)  <br>
 [o0.pages.dev/Lite/domains.txt](https://o0.pages.dev/Lite/domains.txt)  <br>
 [o0.pages.dev/Pro/domains.txt](https://o0.pages.dev/Pro/domains.txt)  <br>
@@ -54,6 +54,33 @@
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/domains.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/domains.txt)  <br>
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/domains.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/domains.txt)  <br>
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/domains.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/domains.txt)  <br>
+<br>
+
+### **<ins>[dnscrypt-proxy](https://www.dnscrypt.org/)</ins> . <ins>[personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/)</ins>**
+[o0.pages.dev/mini/domains.wildcards](https://o0.pages.dev/mini/domains.wildcards)  <br>
+[o0.pages.dev/Lite/domains.wildcards](https://o0.pages.dev/Lite/domains.wildcards)  <br>
+[o0.pages.dev/Pro/domains.wildcards](https://o0.pages.dev/Pro/domains.wildcards)  <br>
+[o0.pages.dev/Xtra/domains.wildcards](https://o0.pages.dev/Xtra/domains.wildcards)  <br>
+<ins>.</ins> <br>
+[hosts.netlify.app/mini/domains.wildcards](https://hosts.netlify.app/mini/domains.wildcards)  <br>
+[hosts.netlify.app/Lite/domains.wildcards](https://hosts.netlify.app/Lite/domains.wildcards)  <br>
+[hosts.netlify.app/Pro/domains.wildcards](https://hosts.netlify.app/Pro/domains.wildcards)  <br>
+[hosts.netlify.app/Xtra/domains.wildcards](https://hosts.netlify.app/Xtra/domains.wildcards)  <br>
+<ins>.</ins> <br>
+[adlist.vercel.app/mini/domains.wildcards](https://adlist.vercel.app/mini/domains.wildcards)  <br>
+[adlist.vercel.app/Lite/domains.wildcards](https://adlist.vercel.app/Lite/domains.wildcards)  <br>
+[adlist.vercel.app/Pro/domains.wildcards](https://adlist.vercel.app/Pro/domains.wildcards)  <br>
+[adlist.vercel.app/Xtra/domains.wildcards](https://adlist.vercel.app/Xtra/domains.wildcards)  <br>
+<ins>.</ins> <br>
+[badmojr.github.io/1Hosts/mini/domains.wildcards](https://badmojr.github.io/1Hosts/mini/domains.wildcards)  <br>
+[badmojr.github.io/1Hosts/Lite/domains.wildcards](https://badmojr.github.io/1Hosts/Lite/domains.wildcards)  <br>
+[badmojr.github.io/1Hosts/Pro/domains.wildcards](https://badmojr.github.io/1Hosts/Pro/domains.wildcards)  <br>
+[badmojr.github.io/1Hosts/Xtra/domains.wildcards](https://badmojr.github.io/1Hosts/Xtra/domains.wildcards)  <br>
+<ins>.</ins> <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/domains.wildcards](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/domains.wildcards)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/domains.wildcards](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/domains.wildcards)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/domains.wildcards](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/domains.wildcards)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/domains.wildcards](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/domains.wildcards)  <br>
 <br>
 
 ### **<ins>[uBlock Origin](https://github.com/gorhill/uBlock#installation)</ins> . <ins>[AdGuardHome](https://adguard.com/en/adguard-home/overview.html)</ins>**
@@ -83,7 +110,7 @@
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/adblock.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/adblock.txt)  <br>
 <br>
 
-### **<ins>[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)</ins> . <ins>[dnscrypt-proxy](https://www.dnscrypt.org/)</ins>**
+### **<ins>[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)</ins>**
 [o0.pages.dev/mini/wildcards.txt](https://o0.pages.dev/mini/wildcards.txt)  <br>
 [o0.pages.dev/Lite/wildcards.txt](https://o0.pages.dev/Lite/wildcards.txt)  <br>
 [o0.pages.dev/Pro/wildcards.txt](https://o0.pages.dev/Pro/wildcards.txt)  <br>
@@ -137,7 +164,7 @@
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/dnsmasq.conf](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/dnsmasq.conf)  <br>
 <br>
 
-### **<ins>[Bind9](https://www.isc.org/bind/)</ins>  . <ins>[PowerDNS](https://www.powerdns.com/recursor.html)</ins> . <ins>[Knot](https://www.knot-dns.cz/)</ins>**
+### **<ins>[Knot](https://www.knot-dns.cz/)</ins> . <ins>[Bind9](https://www.isc.org/bind/)</ins>  . <ins>[PowerDNS](https://www.powerdns.com/recursor.html)</ins>**
 [o0.pages.dev/mini/rpz.txt](https://o0.pages.dev/mini/rpz.txt)  <br>
 [o0.pages.dev/Lite/rpz.txt](https://o0.pages.dev/Lite/rpz.txt)  <br>
 [o0.pages.dev/Pro/rpz.txt](https://o0.pages.dev/Pro/rpz.txt)  <br>
@@ -192,37 +219,37 @@
 <br>
 
 ### **<ins>[Windows](https://en.wikipedia.org/wiki/Hosts_(file))</ins>**
-[o0.pages.dev/mini/hosts_windows.txt](https://o0.pages.dev/mini/hosts_windows.txt)  <br>
-[o0.pages.dev/Lite/hosts_windows.txt](https://o0.pages.dev/Lite/hosts_windows.txt)  <br>
-[o0.pages.dev/Pro/hosts_windows.txt](https://o0.pages.dev/Pro/hosts_windows.txt)  <br>
-[o0.pages.dev/Xtra/hosts_windows.txt](https://o0.pages.dev/Xtra/hosts_windows.txt)  <br>
+[o0.pages.dev/mini/hosts.win](https://o0.pages.dev/mini/hosts.win)  <br>
+[o0.pages.dev/Lite/hosts.win](https://o0.pages.dev/Lite/hosts.win)  <br>
+[o0.pages.dev/Pro/hosts.win](https://o0.pages.dev/Pro/hosts.win)  <br>
+[o0.pages.dev/Xtra/hosts.win](https://o0.pages.dev/Xtra/hosts.win)  <br>
 <ins>.</ins> <br>
-[hosts.netlify.app/mini/hosts_windows.txt](https://hosts.netlify.app/mini/hosts_windows.txt)  <br>
-[hosts.netlify.app/Lite/hosts_windows.txt](https://hosts.netlify.app/Lite/hosts_windows.txt)  <br>
-[hosts.netlify.app/Pro/hosts_windows.txt](https://hosts.netlify.app/Pro/hosts_windows.txt)  <br>
-[hosts.netlify.app/Xtra/hosts_windows.txt](https://hosts.netlify.app/Xtra/hosts_windows.txt)  <br>
+[hosts.netlify.app/mini/hosts.win](https://hosts.netlify.app/mini/hosts.win)  <br>
+[hosts.netlify.app/Lite/hosts.win](https://hosts.netlify.app/Lite/hosts.win)  <br>
+[hosts.netlify.app/Pro/hosts.win](https://hosts.netlify.app/Pro/hosts.win)  <br>
+[hosts.netlify.app/Xtra/hosts.win](https://hosts.netlify.app/Xtra/hosts.win)  <br>
 <ins>.</ins> <br>
-[adlist.vercel.app/mini/hosts_windows.txt](https://adlist.vercel.app/mini/hosts_windows.txt)  <br>
-[adlist.vercel.app/Lite/hosts_windows.txt](https://adlist.vercel.app/Lite/hosts_windows.txt)  <br>
-[adlist.vercel.app/Pro/hosts_windows.txt](https://adlist.vercel.app/Pro/hosts_windows.txt)  <br>
-[adlist.vercel.app/Xtra/hosts_windows.txt](https://adlist.vercel.app/Xtra/hosts_windows.txt)  <br>
+[adlist.vercel.app/mini/hosts.win](https://adlist.vercel.app/mini/hosts.win)  <br>
+[adlist.vercel.app/Lite/hosts.win](https://adlist.vercel.app/Lite/hosts.win)  <br>
+[adlist.vercel.app/Pro/hosts.win](https://adlist.vercel.app/Pro/hosts.win)  <br>
+[adlist.vercel.app/Xtra/hosts.win](https://adlist.vercel.app/Xtra/hosts.win)  <br>
 <ins>.</ins> <br>
-[badmojr.github.io/1Hosts/mini/hosts_windows.txt](https://badmojr.github.io/1Hosts/mini/hosts_windows.txt)  <br>
-[badmojr.github.io/1Hosts/Lite/hosts_windows.txt](https://badmojr.github.io/1Hosts/Lite/hosts_windows.txt)  <br>
-[badmojr.github.io/1Hosts/Pro/hosts_windows.txt](https://badmojr.github.io/1Hosts/Pro/hosts_windows.txt)  <br>
-[badmojr.github.io/1Hosts/Xtra/hosts_windows.txt](https://badmojr.github.io/1Hosts/Xtra/hosts_windows.txt)  <br>
+[badmojr.github.io/1Hosts/mini/hosts.win](https://badmojr.github.io/1Hosts/mini/hosts.win)  <br>
+[badmojr.github.io/1Hosts/Lite/hosts.win](https://badmojr.github.io/1Hosts/Lite/hosts.win)  <br>
+[badmojr.github.io/1Hosts/Pro/hosts.win](https://badmojr.github.io/1Hosts/Pro/hosts.win)  <br>
+[badmojr.github.io/1Hosts/Xtra/hosts.win](https://badmojr.github.io/1Hosts/Xtra/hosts.win)  <br>
 <ins>.</ins> <br>
-[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/hosts_windows.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/hosts_windows.txt)  <br>
-[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/hosts_windows.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/hosts_windows.txt)  <br>
-[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/hosts_windows.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/hosts_windows.txt)  <br>
-[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/hosts_windows.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/hosts_windows.txt)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/hosts.win](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/hosts.win)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/hosts.win](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/hosts.win)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/hosts.win](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/hosts.win)  <br>
+[cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/hosts.win](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/hosts.win)  <br>
 <br>
 <br><br>
 
 
 **Quickstart Guide**<br>
 ----------------
-**mini** - Level 1: unblocks a number of ads & trackers for in-app rewards, and anti-AdBlock.<br>
+**mini** - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.<br>
 **Lite** - Level 2:  set & forget, balanced, recommended.<br>
 **Pro**   - Level 3:  prioritizes safety and privacy e.g blocks `graph.facebook.com`.<br>
 **Xtra** - Level 4: extremly Xtreme in nature, for experienced users only.<br>
