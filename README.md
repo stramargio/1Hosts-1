@@ -164,7 +164,7 @@
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/dnsmasq.conf](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/dnsmasq.conf)  <br>
 <br>
 
-### **<ins>[Knot](https://www.knot-dns.cz/)</ins> . <ins>[Bind9](https://www.isc.org/bind/)</ins>  . <ins>[PowerDNS](https://www.powerdns.com/recursor.html)</ins>**
+### **<ins>[Knot](https://knot-resolver.cz/)</ins> . <ins>[Bind9](https://www.isc.org/bind/)</ins>  . <ins>[PowerDNS](https://www.powerdns.com/recursor.html)</ins>**
 [o0.pages.dev/mini/rpz.txt](https://o0.pages.dev/mini/rpz.txt)  <br>
 [o0.pages.dev/Lite/rpz.txt](https://o0.pages.dev/Lite/rpz.txt)  <br>
 [o0.pages.dev/Pro/rpz.txt](https://o0.pages.dev/Pro/rpz.txt)  <br>
