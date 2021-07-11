@@ -56,7 +56,7 @@
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/domains.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/domains.txt)  <br>
 <br>
 
-### **<ins>[dnscrypt-proxy](https://www.dnscrypt.org/)</ins> . <ins>[personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/)</ins>**
+### **<ins>[dnscrypt-proxy](https://www.dnscrypt.org/)</ins> . <ins>[personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/)</ins>  . <ins>[InviZible Pro](https://invizible.net/en/)</ins>**
 [o0.pages.dev/mini/domains.wildcards](https://o0.pages.dev/mini/domains.wildcards)  <br>
 [o0.pages.dev/Lite/domains.wildcards](https://o0.pages.dev/Lite/domains.wildcards)  <br>
 [o0.pages.dev/Pro/domains.wildcards](https://o0.pages.dev/Pro/domains.wildcards)  <br>
@@ -269,7 +269,6 @@ Use **Xtra**: a highly advanced and extremely edgy list, made for daredevils.<br
   <a href="https://forum.xda-developers.com/posts/74708195">forum.xda-developers.com/posts/74708195</a> <br>
   <a href="https://malwaretips.com/search/230934/?q=1Hosts&amp;o=date">malwaretips.com/search/230934/?q=1Hosts&amp;o=date</a> <br>
   <a href="https://community.blokada.org/t/introducing-1hosts-blocklist/">community.blokada.org/t/introducing-1hosts-blocklist</a> <br>
-  <a href="https://github.com/minoplhy/filters-build/blob/main/1Hosts.md">github.com/minoplhy/filters-build/blob/main/1Hosts.md</a> <br>
   <a href="https://github.com/pothirak/adlist">github.com/pothirak/adlist</a> <br>
   <a href="https://my.nextdns.io/start">NextDNS</a>
 </p>
