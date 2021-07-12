@@ -2,9 +2,9 @@
 ; Expires: 8 hours
 ;  .............
 ;  |URL: https://github.com/badmojr/1Hosts
-;  |Count: 108,930 rules!
+;  |Count: 108,924 rules!
 ;  |Size: 2.83 MB
-;  |Updated: Mon, 12 Jul 2021 10:19:54 +0000
+;  |Updated: Mon, 12 Jul 2021 17:11:39 +0000
 ;  |
 ;  |Licence: Dandelicence,
 ;  | https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceNewestVersion.md
@@ -18,7 +18,7 @@
 ;  \____________________
 
 $TTL 300
-@ SOA localhost. root.localhost. 1626085189 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1626109893 43200 3600 259200 300
   NS  localhost.
 
 *.marketing.globalpointofcare.abbott CNAME .
@@ -18921,6 +18921,8 @@ metrics.bmwusa.com CNAME .
 smetrics.bna.com CNAME .
 *.eagle.bnamericas.com CNAME .
 eagle.bnamericas.com CNAME .
+*.cdn.bncloudfl.com CNAME .
+cdn.bncloudfl.com CNAME .
 *.bncnt.com CNAME .
 bncnt.com CNAME .
 *.smetrics.bncvirtual.com CNAME .
@@ -19923,8 +19925,6 @@ buhatfjrk9dje10eme.com CNAME .
 pdmsmrt.buick.com CNAME .
 *.sstats.build.com CNAME .
 sstats.build.com CNAME .
-*.tracking.build.com CNAME .
-tracking.build.com CNAME .
 *.smetrics.builddirect.com CNAME .
 smetrics.builddirect.com CNAME .
 *.go.buildertrend.com CNAME .
@@ -22971,10 +22971,6 @@ colorfulads.com CNAME .
 colorfulafterthought.com CNAME .
 *.act.colorlines.com CNAME .
 act.colorlines.com CNAME .
-*.classify-f.apps.coloros.com CNAME .
-classify-f.apps.coloros.com CNAME .
-*.log-eap-in.coloros.com CNAME .
-log-eap-in.coloros.com CNAME .
 *.log-eap-sg.coloros.com CNAME .
 log-eap-sg.coloros.com CNAME .
 *.colossalchance.com CNAME .
@@ -31095,8 +31091,6 @@ firehunt.com CNAME .
 firescorrelationprodigy.com CNAME .
 *.hub.firestonecompleteautocare.com CNAME .
 hub.firestonecompleteautocare.com CNAME .
-*.firetvcaptiveportal.com CNAME .
-firetvcaptiveportal.com CNAME .
 *.firewoodnativewoodlands.com CNAME .
 firewoodnativewoodlands.com CNAME .
 *.fireworkssetstill.com CNAME .
@@ -50191,6 +50185,8 @@ notifadz.com CNAME .
 notificationallow.com CNAME .
 *.notified-today.com CNAME .
 notified-today.com CNAME .
+*.notifiyedexpress.com CNAME .
+notifiyedexpress.com CNAME .
 *.notifpush.com CNAME .
 notifpush.com CNAME .
 *.notify6.com CNAME .
@@ -52103,8 +52099,6 @@ padsreds.com CNAME .
 padstm.com CNAME .
 *.pafpaf.com CNAME .
 pafpaf.com CNAME .
-*.m.fb-manage14210922listing.page4544676.com CNAME .
-m.fb-manage14210922listing.page4544676.com CNAME .
 *.pageconditiongrub.com CNAME .
 pageconditiongrub.com CNAME .
 *.www.pagecounters.com CNAME .
@@ -65279,6 +65273,8 @@ babm.texthelp.com CNAME .
 textlinkads.com CNAME .
 *.textlinks.com CNAME .
 textlinks.com CNAME .
+*.events.textme-app.com CNAME .
+events.textme-app.com CNAME .
 *.track.textpartners.com CNAME .
 track.textpartners.com CNAME .
 *.texturetrick.com CNAME .
@@ -71481,8 +71477,6 @@ whirlwealth.com CNAME .
 whisbi.com CNAME .
 *.events.whisk.com CNAME .
 events.whisk.com CNAME .
-*.wmpmvk.whiskeyriff.com CNAME .
-wmpmvk.whiskeyriff.com CNAME .
 *.whispa.com CNAME .
 whispa.com CNAME .
 *.whispercustom.com CNAME .
@@ -71633,8 +71627,6 @@ analytics.wildtangent.com CNAME .
 wildxxxparties.com CNAME .
 *.as.wiley.com CNAME .
 as.wiley.com CNAME .
-*.sdata.wiley.com CNAME .
-sdata.wiley.com CNAME .
 *.secure.wiley.com CNAME .
 secure.wiley.com CNAME .
 *.wilfulpessimistic.com CNAME .
@@ -80679,8 +80671,6 @@ media.onlineteachers.co.in CNAME .
 phoenixads.co.in CNAME .
 *.cuev.in CNAME .
 cuev.in CNAME .
-*.money.dailyhunt.in CNAME .
-money.dailyhunt.in CNAME .
 *.origin-ro-api-dhtv.dailyhunt.in CNAME .
 origin-ro-api-dhtv.dailyhunt.in CNAME .
 *.beacon.rtp.dailyhunt.in CNAME .
@@ -100481,6 +100471,8 @@ metrics.vodafone.ro CNAME .
 wowbiz.ro CNAME .
 *.wtastats.ro CNAME .
 wtastats.ro CNAME .
+*.wtstats.ro CNAME .
+wtstats.ro CNAME .
 *.xchange.ro CNAME .
 xchange.ro CNAME .
 *.ads.zilesinopti.ro CNAME .
@@ -106433,6 +106425,8 @@ a02342.ilkleygazette.co.uk CNAME .
 inboxpounds.co.uk CNAME .
 *.ssc.independent.co.uk CNAME .
 ssc.independent.co.uk CNAME .
+*.rta2.inews.co.uk CNAME .
+rta2.inews.co.uk CNAME .
 *.strack.inews.co.uk CNAME .
 strack.inews.co.uk CNAME .
 *.cookies.innershed.co.uk CNAME .
