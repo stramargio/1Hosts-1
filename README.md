@@ -255,11 +255,11 @@
 **Xtra** - Level 4: extremly Xtreme in nature.<br>
 
 Start with a ***Lite*** list first.<br>
+If you decide that ***Lite*** isn't for you, then move upwards or downwards the chain.<br>
+
 - If **Lite** is too harsh for your taste, downgrade to ***mini***.<br>
 - If **Lite** doesn't block enough, upgrade to ***Pro***.<br>
-
-Still wanna block more?<br>
-Use **Xtra**: a highly advanced and extremely edgy list, made for daredevils.<br>
+- ***Pro*** still not enough? Use **Xtra**.<br>
 <br>
 <br>
 <p align="center">
@@ -270,6 +270,8 @@ Use **Xtra**: a highly advanced and extremely edgy list, made for daredevils.<br
   <a href="https://malwaretips.com/search/230934/?q=1Hosts&amp;o=date">malwaretips.com/search/230934/?q=1Hosts&amp;o=date</a> <br>
   <a href="https://community.blokada.org/t/introducing-1hosts-blocklist/">community.blokada.org/t/introducing-1hosts-blocklist</a> <br>
   <a href="https://github.com/pothirak/adlist">github.com/pothirak/adlist</a> <br>
-  <a href="https://my.nextdns.io/start">NextDNS</a>
+  <a href="https://rethinkdns.com">RethinkDNS</a> . 
+  <a href="https://my.nextdns.io/start">NextDNS</a> .
+  <a href="https://blitz.ahadns.com/">AhaDNS</a>
 </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=badmojr.IIHDhdlo" alt="visits"></p>
