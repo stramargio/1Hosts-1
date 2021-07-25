@@ -87,7 +87,7 @@
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/domains.wildcards](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/domains.wildcards)  <br>
 <br>
 
-### **<ins>[uBlock Origin](https://github.com/gorhill/uBlock#installation)</ins> . <ins>[AdGuardHome](https://adguard.com/en/adguard-home/overview.html)</ins>**
+### **<ins>[uBlock Origin](https://github.com/gorhill/uBlock#installation)</ins> . <ins>[AdGuardHome](https://adguard.com/en/adguard-home/overview.html?aid=31921)</ins>**
 [o0.pages.dev/mini/adblock.txt](https://o0.pages.dev/mini/adblock.txt)  <br>
 [o0.pages.dev/Lite/adblock.txt](https://o0.pages.dev/Lite/adblock.txt)  <br>
 [o0.pages.dev/Pro/adblock.txt](https://o0.pages.dev/Pro/adblock.txt)  <br>
