@@ -3,7 +3,6 @@ name: Release
 on:
   workflow_dispatch:
   push:
-    paths: mini/*
     
 jobs:
   create_release:
