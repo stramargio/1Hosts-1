@@ -3,11 +3,7 @@ name: Release
 on:
   workflow_dispatch:
   push:
-    paths: |
-      mini/*
-      Lite/*
-      Pro/*
-      Xtra/*
+    paths: mini/*
     
 jobs:
   create_release:
