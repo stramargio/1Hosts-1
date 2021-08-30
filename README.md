@@ -7,84 +7,444 @@
 *Grab an updated copy of the file(s) today!*<br>
 
 ### **<ins>[AdAway](https://adaway.org/)</ins>**
-| Pack          | mirror 1                                                | mirror 2                                                                       | mirror 3                                                                               | mirror 4                                    | mirror 5                                                                 | mirror 6                                         |
-|---------------|---------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------|
-| **1Hosts (mini)** | [view](https://badmojr.github.io/1Hosts/mini/hosts.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_hosts.txt) | [view](https://o0.pages.dev/mini/hosts.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/hosts.txt) | [view](https://hosts.netlify.app/mini/hosts.txt) |
-| **1Hosts (Lite)** | [view](https://badmojr.github.io/1Hosts/Lite/hosts.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_hosts.txt) | [view](https://o0.pages.dev/Lite/hosts.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/hosts.txt) | [view](https://hosts.netlify.app/Lite/hosts.txt) |
-| **1Hosts (Pro)**  | [view](https://badmojr.github.io/1Hosts/Pro/hosts.txt)  | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt)  | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_hosts.txt)  | [view](https://o0.pages.dev/Pro/hosts.txt)  | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/hosts.txt)  | [view](https://hosts.netlify.app/Pro/hosts.txt)  |
-| **1Hosts (Xtra)** | [view](https://badmojr.github.io/1Hosts/Xtra/hosts.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_hosts.txt) | [view](https://o0.pages.dev/Xtra/hosts.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/hosts.txt) | [view](https://hosts.netlify.app/Xtra/hosts.txt) |
+<table>
+<thead>
+<tr>
+<th>Pack</th>
+<th>mirror 1</th>
+<th>mirror 2</th>
+<th>mirror 3</th>
+<th>mirror 4</th>
+<th>mirror 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1Hosts (mini)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/mini/hosts.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_hosts.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/mini/hosts.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/mini/hosts.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Lite)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Lite/hosts.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_hosts.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Lite/hosts.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Lite/hosts.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Pro)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Pro/hosts.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_hosts.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Pro/hosts.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Pro/hosts.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Xtra)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Xtra/hosts.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_hosts.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Xtra/hosts.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Xtra/hosts.txt">view</a></td>
+</tr>
+</tbody>
+</table>
 <br>
 
 ### **<ins>[Pi-hole](https://pi-hole.net/)</ins>**
-| Pack          | mirror 1                                                | mirror 2                                                                       | mirror 3                                                                               | mirror 4                                    | mirror 5                                                                 | mirror 6                                         |
-|---------------|---------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------|
-| **1Hosts (mini)** | [view](https://badmojr.github.io/1Hosts/mini/domains.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.txt) | [view](https://o0.pages.dev/mini/domains.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/domains.txt) | [view](https://hosts.netlify.app/mini/domains.txt) |
-| **1Hosts (Lite)** | [view](https://badmojr.github.io/1Hosts/Lite/domains.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_domains.txt) | [view](https://o0.pages.dev/Lite/domains.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/domains.txt) | [view](https://hosts.netlify.app/Lite/domains.txt) |
-| **1Hosts (Pro)**  | [view](https://badmojr.github.io/1Hosts/Pro/domains.txt)  | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt)  | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_domains.txt)  | [view](https://o0.pages.dev/Pro/domains.txt)  | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/domains.txt)  | [view](https://hosts.netlify.app/Pro/domains.txt)  |
-| **1Hosts (Xtra)** | [view](https://badmojr.github.io/1Hosts/Xtra/domains.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.txt) | [view](https://o0.pages.dev/Xtra/domains.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/domains.txt) | [view](https://hosts.netlify.app/Xtra/domains.txt) |
+<table>
+<thead>
+<tr>
+<th>Pack</th>
+<th>mirror 1</th>
+<th>mirror 2</th>
+<th>mirror 3</th>
+<th>mirror 4</th>
+<th>mirror 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1Hosts (mini)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/mini/domains.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/mini/domains.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/mini/domains.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Lite)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Lite/domains.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_domains.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Lite/domains.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Lite/domains.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Pro)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Pro/domains.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_domains.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Pro/domains.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Pro/domains.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Xtra)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Xtra/domains.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Xtra/domains.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Xtra/domains.txt">view</a></td>
+</tr>
+</tbody>
+</table>
 <br>
 
 ### **<ins>[dnscrypt-proxy](https://www.dnscrypt.org/)</ins> . <ins>[personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/)</ins>  . <ins>[InviZible Pro](https://invizible.net/en/)</ins>**
-| Pack          | mirror 1                                                | mirror 2                                                                       | mirror 3                                                                               | mirror 4                                    | mirror 5                                                                 | mirror 6                                         |
-|---------------|---------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------|
-| **1Hosts (mini)** | [dl](https://badmojr.github.io/1Hosts/mini/domains.wildcards) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.wildcards) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.wildcards) | [dl](https://o0.pages.dev/mini/domains.wildcards) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/domains.wildcards) | [dl](https://hosts.netlify.app/mini/domains.wildcards) |
-| **1Hosts (Lite)** | [dl](https://badmojr.github.io/1Hosts/Lite/domains.wildcards) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_domains.wildcards) | [dl](https://o0.pages.dev/Lite/domains.wildcards) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/domains.wildcards) | [dl](https://hosts.netlify.app/Lite/domains.wildcards) |
-| **1Hosts (Pro)**  | [dl](https://badmojr.github.io/1Hosts/Pro/domains.wildcards)  | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.wildcards)  | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_domains.wildcards)  | [dl](https://o0.pages.dev/Pro/domains.wildcards)  | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/domains.wildcards)  | [dl](https://hosts.netlify.app/Pro/domains.wildcards)  |
-| **1Hosts (Xtra)** | [dl](https://badmojr.github.io/1Hosts/Xtra/domains.wildcards) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.wildcards) | [dl](https://o0.pages.dev/Xtra/domains.wildcards) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/domains.wildcards) | [dl](https://hosts.netlify.app/Xtra/domains.wildcards) |
+<table>
+<thead>
+<tr>
+<th>Pack</th>
+<th>mirror 1</th>
+<th>mirror 2</th>
+<th>mirror 3</th>
+<th>mirror 4</th>
+<th>mirror 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1Hosts (mini)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/mini/domains.wildcards">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.wildcards">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.wildcards">dl</a></td>
+<td><a href="https://o0.pages.dev/mini/domains.wildcards">dl</a></td>
+<td><a href="https://hosts.netlify.app/mini/domains.wildcards">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Lite)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Lite/domains.wildcards">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_domains.wildcards">dl</a></td>
+<td><a href="https://o0.pages.dev/Lite/domains.wildcards">dl</a></td>
+<td><a href="https://hosts.netlify.app/Lite/domains.wildcards">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Pro)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Pro/domains.wildcards">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.wildcards">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_domains.wildcards">dl</a></td>
+<td><a href="https://o0.pages.dev/Pro/domains.wildcards">dl</a></td>
+<td><a href="https://hosts.netlify.app/Pro/domains.wildcards">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Xtra)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Xtra/domains.wildcards">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.wildcards">dl</a></td>
+<td><a href="https://o0.pages.dev/Xtra/domains.wildcards">dl</a></td>
+<td><a href="https://hosts.netlify.app/Xtra/domains.wildcards">dl</a></td>
+</tr>
+</tbody>
+</table>
 <br>
 
 ### **<ins>[uBlock Origin](https://github.com/gorhill/uBlock#installation)</ins> . <ins>[AdGuardHome](https://adguard.com/en/adguard-home/overview.html?aid=31921)</ins>**
-| Pack          | mirror 1                                                | mirror 2                                                                       | mirror 3                                                                               | mirror 4                                    | mirror 5                                                                 | mirror 6                                         |
-|---------------|---------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------|
-| **1Hosts (mini)** | [view](https://badmojr.github.io/1Hosts/mini/adblock.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_adblock.txt) | [view](https://o0.pages.dev/mini/adblock.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/adblock.txt) | [view](https://hosts.netlify.app/mini/adblock.txt) |
-| **1Hosts (Lite)** | [view](https://badmojr.github.io/1Hosts/Lite/adblock.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_adblock.txt) | [view](https://o0.pages.dev/Lite/adblock.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/adblock.txt) | [view](https://hosts.netlify.app/Lite/adblock.txt) |
-| **1Hosts (Pro)**  | [view](https://badmojr.github.io/1Hosts/Pro/adblock.txt)  | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt)  | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_adblock.txt)  | [view](https://o0.pages.dev/Pro/adblock.txt)  | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/adblock.txt)  | [view](https://hosts.netlify.app/Pro/adblock.txt)  |
-| **1Hosts (Xtra)** | [view](https://badmojr.github.io/1Hosts/Xtra/adblock.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_adblock.txt) | [view](https://o0.pages.dev/Xtra/adblock.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/adblock.txt) | [view](https://hosts.netlify.app/Xtra/adblock.txt) |
+<table>
+<thead>
+<tr>
+<th>Pack</th>
+<th>mirror 1</th>
+<th>mirror 2</th>
+<th>mirror 3</th>
+<th>mirror 4</th>
+<th>mirror 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1Hosts (mini)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/mini/adblock.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_adblock.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/mini/adblock.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/mini/adblock.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Lite)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Lite/adblock.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_adblock.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Lite/adblock.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Lite/adblock.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Pro)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Pro/adblock.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_adblock.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Pro/adblock.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Pro/adblock.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Xtra)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Xtra/adblock.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_adblock.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Xtra/adblock.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Xtra/adblock.txt">view</a></td>
+</tr>
+</tbody>
+</table>
 <br>
 
 ### **<ins>[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)</ins>**
-| Pack          | mirror 1                                                | mirror 2                                                                       | mirror 3                                                                               | mirror 4                                    | mirror 5                                                                 | mirror 6                                         |
-|---------------|---------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------|
-| **1Hosts (mini)** | [view](https://badmojr.github.io/1Hosts/mini/wildcards.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/wildcards.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_wildcards.txt) | [view](https://o0.pages.dev/mini/wildcards.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/wildcards.txt) | [view](https://hosts.netlify.app/mini/wildcards.txt) |
-| **1Hosts (Lite)** | [view](https://badmojr.github.io/1Hosts/Lite/wildcards.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/wildcards.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_wildcards.txt) | [view](https://o0.pages.dev/Lite/wildcards.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/wildcards.txt) | [view](https://hosts.netlify.app/Lite/wildcards.txt) |
-| **1Hosts (Pro)**  | [view](https://badmojr.github.io/1Hosts/Pro/wildcards.txt)  | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/wildcards.txt)  | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_wildcards.txt)  | [view](https://o0.pages.dev/Pro/wildcards.txt)  | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/wildcards.txt)  | [view](https://hosts.netlify.app/Pro/wildcards.txt)  |
-| **1Hosts (Xtra)** | [view](https://badmojr.github.io/1Hosts/Xtra/wildcards.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/wildcards.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_wildcards.txt) | [view](https://o0.pages.dev/Xtra/wildcards.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/wildcards.txt) | [view](https://hosts.netlify.app/Xtra/wildcards.txt) |
+<table>
+<thead>
+<tr>
+<th>Pack</th>
+<th>mirror 1</th>
+<th>mirror 2</th>
+<th>mirror 3</th>
+<th>mirror 4</th>
+<th>mirror 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1Hosts (mini)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/mini/wildcards.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/wildcards.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_wildcards.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/mini/wildcards.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/mini/wildcards.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Lite)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Lite/wildcards.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/wildcards.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_wildcards.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Lite/wildcards.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Lite/wildcards.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Pro)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Pro/wildcards.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/wildcards.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_wildcards.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Pro/wildcards.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Pro/wildcards.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Xtra)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Xtra/wildcards.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/wildcards.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_wildcards.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Xtra/wildcards.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Xtra/wildcards.txt">view</a></td>
+</tr>
+</tbody>
+</table>
 <br>
 
 ### **<ins>[dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)</ins>**
-| Pack          | mirror 1                                                | mirror 2                                                                       | mirror 3                                                                               | mirror 4                                    | mirror 5                                                                 | mirror 6                                         |
-|---------------|---------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------|
-| **1Hosts (mini)** | [dl](https://badmojr.github.io/1Hosts/mini/dnsmasq.conf) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/dnsmasq.conf) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_dnsmasq.conf) | [dl](https://o0.pages.dev/mini/dnsmasq.conf) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/dnsmasq.conf) | [dl](https://hosts.netlify.app/mini/dnsmasq.conf) |
-| **1Hosts (Lite)** | [dl](https://badmojr.github.io/1Hosts/Lite/dnsmasq.conf) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/dnsmasq.conf) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_dnsmasq.conf) | [dl](https://o0.pages.dev/Lite/dnsmasq.conf) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/dnsmasq.conf) | [dl](https://hosts.netlify.app/Lite/dnsmasq.conf) |
-| **1Hosts (Pro)**  | [dl](https://badmojr.github.io/1Hosts/Pro/dnsmasq.conf)  | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/dnsmasq.conf)  | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_dnsmasq.conf)  | [dl](https://o0.pages.dev/Pro/dnsmasq.conf)  | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/dnsmasq.conf)  | [dl](https://hosts.netlify.app/Pro/dnsmasq.conf)  |
-| **1Hosts (Xtra)** | [dl](https://badmojr.github.io/1Hosts/Xtra/dnsmasq.conf) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/dnsmasq.conf) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_dnsmasq.conf) | [dl](https://o0.pages.dev/Xtra/dnsmasq.conf) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/dnsmasq.conf) | [dl](https://hosts.netlify.app/Xtra/dnsmasq.conf) |
+<table>
+<thead>
+<tr>
+<th>Pack</th>
+<th>mirror 1</th>
+<th>mirror 2</th>
+<th>mirror 3</th>
+<th>mirror 4</th>
+<th>mirror 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1Hosts (mini)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/mini/dnsmasq.conf">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/dnsmasq.conf">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_dnsmasq.conf">dl</a></td>
+<td><a href="https://o0.pages.dev/mini/dnsmasq.conf">dl</a></td>
+<td><a href="https://hosts.netlify.app/mini/dnsmasq.conf">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Lite)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Lite/dnsmasq.conf">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/dnsmasq.conf">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_dnsmasq.conf">dl</a></td>
+<td><a href="https://o0.pages.dev/Lite/dnsmasq.conf">dl</a></td>
+<td><a href="https://hosts.netlify.app/Lite/dnsmasq.conf">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Pro)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Pro/dnsmasq.conf">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/dnsmasq.conf">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_dnsmasq.conf">dl</a></td>
+<td><a href="https://o0.pages.dev/Pro/dnsmasq.conf">dl</a></td>
+<td><a href="https://hosts.netlify.app/Pro/dnsmasq.conf">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Xtra)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Xtra/dnsmasq.conf">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/dnsmasq.conf">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_dnsmasq.conf">dl</a></td>
+<td><a href="https://o0.pages.dev/Xtra/dnsmasq.conf">dl</a></td>
+<td><a href="https://hosts.netlify.app/Xtra/dnsmasq.conf">dl</a></td>
+</tr>
+</tbody>
+</table>
 <br>
 
 ### **<ins>[Knot](https://knot-resolver.cz/)</ins> . <ins>[Bind9](https://www.isc.org/bind/)</ins>  . <ins>[PowerDNS](https://www.powerdns.com/recursor.html)</ins>**
-| Pack          | mirror 1                                                | mirror 2                                                                       | mirror 3                                                                               | mirror 4                                    | mirror 5                                                                 | mirror 6                                         |
-|---------------|---------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------|
-| **1Hosts (mini)** | [view](https://badmojr.github.io/1Hosts/mini/rpz.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/rpz.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_rpz.txt) | [view](https://o0.pages.dev/mini/rpz.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/rpz.txt) | [view](https://hosts.netlify.app/mini/rpz.txt) |
-| **1Hosts (Lite)** | [view](https://badmojr.github.io/1Hosts/Lite/rpz.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/rpz.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_rpz.txt) | [view](https://o0.pages.dev/Lite/rpz.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/rpz.txt) | [view](https://hosts.netlify.app/Lite/rpz.txt) |
-| **1Hosts (Pro)**  | [view](https://badmojr.github.io/1Hosts/Pro/rpz.txt)  | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/rpz.txt)  | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_rpz.txt)  | [view](https://o0.pages.dev/Pro/rpz.txt)  | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/rpz.txt)  | [view](https://hosts.netlify.app/Pro/rpz.txt)  |
-| **1Hosts (Xtra)** | [view](https://badmojr.github.io/1Hosts/Xtra/rpz.txt) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/rpz.txt) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_rpz.txt) | [view](https://o0.pages.dev/Xtra/rpz.txt) | [view](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/rpz.txt) | [view](https://hosts.netlify.app/Xtra/rpz.txt) |
+<table>
+<thead>
+<tr>
+<th>Pack</th>
+<th>mirror 1</th>
+<th>mirror 2</th>
+<th>mirror 3</th>
+<th>mirror 4</th>
+<th>mirror 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1Hosts (mini)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/mini/rpz.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/rpz.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_rpz.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/mini/rpz.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/mini/rpz.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Lite)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Lite/rpz.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/rpz.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_rpz.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Lite/rpz.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Lite/rpz.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Pro)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Pro/rpz.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/rpz.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_rpz.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Pro/rpz.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Pro/rpz.txt">view</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Xtra)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Xtra/rpz.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/rpz.txt">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_rpz.txt">dl</a></td>
+<td><a href="https://o0.pages.dev/Xtra/rpz.txt">view</a></td>
+<td><a href="https://hosts.netlify.app/Xtra/rpz.txt">view</a></td>
+</tr>
+</tbody>
+</table>
 <br>
 
 ### **<ins>[Unbound](https://nlnetlabs.nl/projects/unbound/about/)</ins>**
-| Pack          | mirror 1                                                | mirror 2                                                                       | mirror 3                                                                               | mirror 4                                    | mirror 5                                                                 | mirror 6                                         |
-|---------------|---------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------|
-| **1Hosts (mini)** | [dl](https://badmojr.github.io/1Hosts/mini/unbound.conf) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/unbound.conf) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_unbound.conf) | [dl](https://o0.pages.dev/mini/unbound.conf) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/unbound.conf) | [dl](https://hosts.netlify.app/mini/unbound.conf) |
-| **1Hosts (Lite)** | [dl](https://badmojr.github.io/1Hosts/Lite/unbound.conf) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/unbound.conf) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_unbound.conf) | [dl](https://o0.pages.dev/Lite/unbound.conf) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/unbound.conf) | [dl](https://hosts.netlify.app/Lite/unbound.conf) |
-| **1Hosts (Pro)**  | [dl](https://badmojr.github.io/1Hosts/Pro/unbound.conf)  | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/unbound.conf)  | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_unbound.conf)  | [dl](https://o0.pages.dev/Pro/unbound.conf)  | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/unbound.conf)  | [dl](https://hosts.netlify.app/Pro/unbound.conf)  |
-| **1Hosts (Xtra)** | [dl](https://badmojr.github.io/1Hosts/Xtra/unbound.conf) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/unbound.conf) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_unbound.conf) | [dl](https://o0.pages.dev/Xtra/unbound.conf) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/unbound.conf) | [dl](https://hosts.netlify.app/Xtra/unbound.conf) |
+<table>
+<thead>
+<tr>
+<th>Pack</th>
+<th>mirror 1</th>
+<th>mirror 2</th>
+<th>mirror 3</th>
+<th>mirror 4</th>
+<th>mirror 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1Hosts (mini)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/mini/unbound.conf">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/unbound.conf">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_unbound.conf">dl</a></td>
+<td><a href="https://o0.pages.dev/mini/unbound.conf">dl</a></td>
+<td><a href="https://hosts.netlify.app/mini/unbound.conf">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Lite)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Lite/unbound.conf">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/unbound.conf">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_unbound.conf">dl</a></td>
+<td><a href="https://o0.pages.dev/Lite/unbound.conf">dl</a></td>
+<td><a href="https://hosts.netlify.app/Lite/unbound.conf">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Pro)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Pro/unbound.conf">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/unbound.conf">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_unbound.conf">dl</a></td>
+<td><a href="https://o0.pages.dev/Pro/unbound.conf">dl</a></td>
+<td><a href="https://hosts.netlify.app/Pro/unbound.conf">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Xtra)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Xtra/unbound.conf">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/unbound.conf">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_unbound.conf">dl</a></td>
+<td><a href="https://o0.pages.dev/Xtra/unbound.conf">dl</a></td>
+<td><a href="https://hosts.netlify.app/Xtra/unbound.conf">dl</a></td>
+</tr>
+</tbody>
+</table>
 <br>
 
 ### **<ins>[Windows](https://en.wikipedia.org/wiki/Hosts_(file))</ins>**
-| Pack          | mirror 1                                                | mirror 2                                                                       | mirror 3                                                                               | mirror 4                                    | mirror 5                                                                 | mirror 6                                         |
-|---------------|---------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------|
-| **1Hosts (mini)** | [dl](https://badmojr.github.io/1Hosts/mini/hosts.win) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.win) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_hosts.win) | [dl](https://o0.pages.dev/mini/hosts.win) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/hosts.win) | [dl](https://hosts.netlify.app/mini/hosts.win) |
-| **1Hosts (Lite)** | [dl](https://badmojr.github.io/1Hosts/Lite/hosts.win) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.win) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_hosts.win) | [dl](https://o0.pages.dev/Lite/hosts.win) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/hosts.win) | [dl](https://hosts.netlify.app/Lite/hosts.win) |
-| **1Hosts (Pro)**  | [dl](https://badmojr.github.io/1Hosts/Pro/hosts.win)  | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.win)  | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_hosts.win)  | [dl](https://o0.pages.dev/Pro/hosts.win)  | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Pro/hosts.win)  | [dl](https://hosts.netlify.app/Pro/hosts.win)  |
-| **1Hosts (Xtra)** | [dl](https://badmojr.github.io/1Hosts/Xtra/hosts.win) | [view](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.win) | [dl](https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_hosts.win) | [dl](https://o0.pages.dev/Xtra/hosts.win) | [dl](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Xtra/hosts.win) | [dl](https://hosts.netlify.app/Xtra/hosts.win) |
+<table>
+<thead>
+<tr>
+<th>Pack</th>
+<th>mirror 1</th>
+<th>mirror 2</th>
+<th>mirror 3</th>
+<th>mirror 4</th>
+<th>mirror 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1Hosts (mini)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/mini/hosts.win">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.win">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_hosts.win">dl</a></td>
+<td><a href="https://o0.pages.dev/mini/hosts.win">dl</a></td>
+<td><a href="https://hosts.netlify.app/mini/hosts.win">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Lite)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Lite/hosts.win">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.win">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_hosts.win">dl</a></td>
+<td><a href="https://o0.pages.dev/Lite/hosts.win">dl</a></td>
+<td><a href="https://hosts.netlify.app/Lite/hosts.win">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Pro)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Pro/hosts.win">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.win">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_hosts.win">dl</a></td>
+<td><a href="https://o0.pages.dev/Pro/hosts.win">dl</a></td>
+<td><a href="https://hosts.netlify.app/Pro/hosts.win">dl</a></td>
+</tr>
+<tr>
+<td><strong>1Hosts (Xtra)</strong></td>
+<td><a href="https://badmojr.github.io/1Hosts/Xtra/hosts.win">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.win">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_hosts.win">dl</a></td>
+<td><a href="https://o0.pages.dev/Xtra/hosts.win">dl</a></td>
+<td><a href="https://hosts.netlify.app/Xtra/hosts.win">dl</a></td>
+</tr>
+</tbody>
+</table>
 <br>
 <br><br>
 
