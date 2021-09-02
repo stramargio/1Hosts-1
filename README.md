@@ -454,7 +454,7 @@
 **mini** - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.<br>
 **Lite** - Level 2:  set & forget, favours user experience (UX) over adblocking, balanced, recommended.<br>
 **Pro**   - Level 3:  prioritizes safety & privacy (adblocking) over UX e.g blocks `graph.facebook.com`.<br>
-**Xtra** - Level 4: extremly Xtreme in nature.<br>
+**Xtra** - Level 4: extremly aggressive & restrictive. Do not use unless you know what you're doing!<br>
 
 Start with a ***Lite*** list first.<br>
 If you decide that ***Lite*** isn't for you, then move upwards or downwards the chain.<br>
