@@ -350,6 +350,7 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <a href="https://blokada.org/">Blokada</a> <br>
 <a href="https://www.dnscrypt.org/">dnscrypt-proxy</a> <br>
 <a href="https://www.zenz-solutions.de/personaldnsfilter-wp/">personalDNSfilter</a> <br>
+<a href="https://rethinkfirewall.com/">RethinkDNS + Firewall</a> <br>
 <a href="https://invizible.net/en/">InviZible Pro</a> <br>
 <a href="https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351">DNSCloak</a> <br>
 <a href="https://github.com/gorhill/uBlock#installation">uBlock Origin</a> <br>
