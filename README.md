@@ -344,7 +344,7 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <p align="center"><strong>Credits & ©:</strong> <br>
   <a href="./-data/lists/assets.txt">Dear list maintainers, thank you!</a> <br></p><br>
   
-<p align="center"><strong>apps/softwares:</strong> <br>
+<p align="center"><strong>softwares:</strong> <br>
 <a href="https://adaway.org/">AdAway</a> <br>
 <a href="https://pi-hole.net/">Pi-hole</a> <br>
 <a href="https://blokada.org/">Blokada</a> <br>
