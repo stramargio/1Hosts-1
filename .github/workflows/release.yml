@@ -3,6 +3,13 @@ name: Release
 on:
   workflow_dispatch:
   push:
+    branches:
+      - master
+    paths:
+     - 'mini/**'
+     - 'Lite/**'
+     - 'Pro/**'
+     - 'Xtra/**'
     
 jobs:
   create_release:
